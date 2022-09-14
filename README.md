@@ -28,6 +28,6 @@ Un fotorresistor o fotorresistencia es un componente electrónico cuya resistenc
 
 El LDR por sus siglas en inglés (Light Dependent Resistor) o fotoresistor es una resistencia eléctrica la cual varía su valor en función de la cantidad de luz que incide sobre su superficie. Cuanto mayor sea la intensidad de luz que incide en la superficie del LDR o fotoresistor menor será su resistencia y en cuanto menor sea la luz que incida sobre éste mayor será su resistencia.
 
-**¿Cómo funciona una LDR o fotoresistencia? **
+**¿Cómo funciona una LDR o fotoresistencia?**
 
 Cuando el LDR(fotoresistor) no está expuesto a radiaciones luminosas, los electrones están firmemente unidos en los átomos que lo conforman, pero cuando sobre él inciden radiaciones luminosas, esta energía libera electrones con lo cual el material se hace más conductor, y de esta manera disminuye su resistencia. Las resistencias LDR solamente reducen su resistencia con una radiación luminosa situada dentro de una determinada banda de longitudes de onda.
