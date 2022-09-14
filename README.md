@@ -12,10 +12,19 @@ Sirve para conectar LED RGB que consumen mucha energía a su microcontrolador. U
 ![image](https://user-images.githubusercontent.com/44510625/190014335-3ead1590-12e0-4d67-97f9-0e85f03a0d2f.png)
 
 
+
 **Funcionalidad de pines**
 
-![image](https://user-images.githubusercontent.com/44510625/190014210-25bd4ceb-1e07-4da8-b0ee-514f46ca61fd.png)
-
+| Pin     | Description                                           |
+|---------|-------------------------------------------------------|
+| SI      | Serial Input                                          |
+| RCK     | Storage (latch) pin                                   |
+| OE      | Output enable, active low. Connect to GND if not used |
+| QA...QH | Parallel output                                       |
+| SQH     | Serial output*                                        |
+| SCLR    | Reset(clear), active low. Connect to VCC if not used  |
+| GND     | Ground                                                |
+| VCC     | Supply voltage                                        |
 
 ## Photoresistor (LDR) Sensor
 
